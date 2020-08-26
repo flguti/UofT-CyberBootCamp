@@ -3,7 +3,7 @@
 ## Homework for UofT CuberSecurity Bootcamp Course
 
 ## Overview
-<img src="../diagram/FlavioLopesDiagramUnit12.png" alt="drawing" style="width: 370px;"/>
+<img src="../diagram/FlavioLopesDiagramUnit12.png" alt="drawing" style="width: 370px;">
 
 ## Components
 
