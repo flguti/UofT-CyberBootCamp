@@ -1,0 +1,20 @@
+Times the losses occurred on each day:
+day 0310
+Time: 05:00:00 AM Dealer: Billy Jones
+Time: 08:00:00 AM Dealer: Billy Jones
+Time: 02:00:00 PM Dealer: Billy Jones
+Time: 08:00:00 PM Dealer: Billy Jones
+Time: 11:00:00 PM Dealer: Billy Jones
+day 0312
+Time: 05:00:00 AM Dealer: Billy Jones
+Time: 08:00:00 AM Dealer: Billy Jones
+Time: 02:00:00 PM Dealer: Billy Jones
+Time: 08:00:00 PM Dealer: Billy Jones
+Time: 11:00:00 PM Dealer: Billy Jones
+day 0315
+Time: 05:00:00 AM Dealer: Billy Jones
+Time: 08:00:00 AM Dealer: Billy Jones
+Time: 02:00:00 PM Dealer: Billy Jones
+We identified that Dealer Billy Jones was working during most of the losses periods.
+The total count of times Billy Jones was playing during Roulet losses:
+13
